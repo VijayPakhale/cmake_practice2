@@ -1,0 +1,10 @@
+
+1. To compile with Compile_executable option, this will avoid changing out CMakeLists.txt file eveytime and we can pass
+    the value at run-time
+    cmake .. -DCOMPILE_EXECUTABLE=ON
+
+2. Makefile : A just file to do some optional tasks.
+    make prepare - This will delete old build dir and create a new one for us.
+
+3. Build in Release/Debug mode:-
+    cmake -DCMAKE_BUILD_TYPE=Debug ..

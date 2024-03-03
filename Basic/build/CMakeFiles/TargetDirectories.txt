@@ -1,0 +1,4 @@
+/mnt/d/Git/franneck94/cmake_practice/Basic/build/CMakeFiles/Library.dir
+/mnt/d/Git/franneck94/cmake_practice/Basic/build/CMakeFiles/Executable.dir
+/mnt/d/Git/franneck94/cmake_practice/Basic/build/CMakeFiles/edit_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/Basic/build/CMakeFiles/rebuild_cache.dir

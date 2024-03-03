@@ -1,0 +1,10 @@
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/CMakeFiles/edit_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/lib/CMakeFiles/edit_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/lib/CMakeFiles/rebuild_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/lib/my_lib1/CMakeFiles/Library.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/lib/my_lib1/CMakeFiles/edit_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/lib/my_lib1/CMakeFiles/rebuild_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/app/CMakeFiles/Executable.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/app/CMakeFiles/edit_cache.dir
+/mnt/d/Git/franneck94/cmake_practice/With_Subdirs/build/app/CMakeFiles/rebuild_cache.dir
